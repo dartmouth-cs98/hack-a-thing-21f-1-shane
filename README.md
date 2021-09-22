@@ -6,6 +6,12 @@ A Unity3D game where the player operates a rolling ball on a medium sized plane.
 
 This project involved making 3D objects in Unity and adding components that allowed for interaction within the game as well as operating actions in the 3D game through controllers written in C#. The game was built from scratch using a tutorial on the [Learn Unity Website](learn.unity.com).
 
+To play this game:
+1. Clone this repository
+2. Open this repository using the Unity Hub
+3. Click File > Build and Run
+4. Play the game!
+
 Here are some Initial Screenshots:
 
 [Unity Editor](ReadmeImages/UnityEditor.png)
