@@ -6,13 +6,23 @@ A Unity3D game where the player operates a rolling ball on a medium sized plane.
 
 This project involved making 3D objects in Unity and adding components that allowed for interaction within the game as well as operating actions in the 3D game through controllers written in C#. The game was built from scratch using a tutorial on the [Learn Unity Website](learn.unity.com).
 
-Here are some Screenshots:
+Here are some Initial Screenshots:
 
 [Unity Editor](ReadmeImages/UnityEditor.png)
 
 [Game Start](ReadmeImages/GameStart.png)
 
 [In Game](ReadmeImages/InGame.png)
+
+Then I changed the format of the collectibles!
+
+[Unity Editor](ReadmeImages/CS98Format.png)
+
+[Game Start](ReadmeImages/CS98GameStart.png)
+
+[In Game](ReadmeImages/BuiltGamePlaying.png)
+
+
 
 ## Who Did What?
 
